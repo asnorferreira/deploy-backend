@@ -6,6 +6,6 @@ export const getList = async (req, res) => {
     return res.status(200).json(car);
   } catch (error) {
     console.error("Error ao listar carros: ", error);
-    return res.status(500).json(message.error);
+    return res.status(500).json(error.message);
   }
 };

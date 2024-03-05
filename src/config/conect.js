@@ -1,4 +1,7 @@
 import knex from "knex";
+import { config } from "dotenv";
+
+config();
 
 const knexInstance = knex({
   client: "pg",
