@@ -29,3 +29,7 @@ a um ou vários domínios. Esse processo é realizado por Sistemas DNS.
 > GoDaddy
 > name.comp
 > domain.com
+
+
+LINK FOR DEPLOY: https://app.cyclic.sh/#/
+LINK FOR DB ONLINE: https://www.elephantsql.com/
