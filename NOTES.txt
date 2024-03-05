@@ -1,0 +1,31 @@
+# Deploy:
+> What is this? 
+>>  É o processo de implantação de um sistema em um servidor (nuvem) que disponibiliza o sistema para uso.
+
+## Biblioteca: dotenv - biblioteca para ser instalada
+
+## Sites que alugam essas aplicações:
+> Digital Ocean
+> AWS - Amazon
+> Heroku
+> Azure
+> Cyclic
+> Google Cloud Platform
+
+# Domínio: 
+> What is this?
+>> É um registro de nome único que serve para localizar e identificar servidores
+(computadores) na Internet. O registro de domínios é feito por empresas autorizadas.
+    >> Todo sistema hospedado em um servidor pode ser acessado através de um IP.
+
+> DNS:
+> What is this?
+>> Para tornar o acesso a servidores mais amigável, um ou vários IP's são atrelado 
+a um ou vários domínios. Esse processo é realizado por Sistemas DNS.
+    >> DNS = Domain Name System
+
+## Sites que aplicam:
+> registro.br
+> GoDaddy
+> name.comp
+> domain.com
