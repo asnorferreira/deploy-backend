@@ -3,4 +3,4 @@ import controller from "../controller/index.js";
 
 export const routes = express();
 
-routes.get("/api", controller.getList);
+routes.get("/", controller.getList);
