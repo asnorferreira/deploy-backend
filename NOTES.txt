@@ -33,3 +33,6 @@ a um ou vários domínios. Esse processo é realizado por Sistemas DNS.
 
 LINK FOR DEPLOY: https://app.cyclic.sh/#/
 LINK FOR DB ONLINE: https://www.elephantsql.com/
+
+biblioteca para se conectar perfeitamente com o front-end/ back-end
+cors
